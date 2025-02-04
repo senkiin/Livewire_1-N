@@ -20,4 +20,5 @@
                 {{$orders->links()}}
             </div>
       </div>
+      @livewire('ejemplo')
 </x-app-layout>
